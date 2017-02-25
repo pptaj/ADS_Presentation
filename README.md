@@ -7,3 +7,5 @@
 
 #Introduction to OpenStack
 * OpenStack Information
+* Installation
+* TryStack
