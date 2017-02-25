@@ -27,7 +27,7 @@ Reference link: https://www.quora.com/Whats-the-difference-between-a-VM-Docker-a
 
 * Vagrant
 
-![alt tag](https://qph.ec.quoracdn.net/main-qimg-ba6d33730d1bce36c28d6a04486b2574-p)
+![alt tag](https://qph.ec.quoracdn.net/main-qimg-7dd201f456a841238f1a469999245fc7-p)
 
 #Difference between Vagrant & Docker
 Reference Link: https://deliciousbrains.com/vagrant-docker-wordpress-development/
