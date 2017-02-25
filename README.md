@@ -11,7 +11,8 @@
 * TryStack
 
 #Difference between Virtual Machine,Docker and Vagrant
-* The short answer is that if you want to manage machines, you should use Vagrant. And if you want to build and run applications environments, you should use Docker - http://stackoverflow.com/questions/16647069/should-i-use-vagrant-or-docker-for-creating-an-isolated-environment
+* The short answer is that if you want to manage machines, you should use Vagrant. And if you want to build and run applications environments, you should use Docker 
+Reference link: http://stackoverflow.com/questions/16647069/should-i-use-vagrant-or-docker-for-creating-an-isolated-environment
 Reference link: https://www.quora.com/Whats-the-difference-between-a-VM-Docker-and-Vagrant
 
 * Virtual Machine
