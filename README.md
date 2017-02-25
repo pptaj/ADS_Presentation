@@ -14,12 +14,15 @@
 Reference link: https://www.quora.com/Whats-the-difference-between-a-VM-Docker-and-Vagrant
 
 * Virtual Machine
+
 ![alt tag](https://qph.ec.quoracdn.net/main-qimg-c5288bd31cc118aaea15ee87310a331c-p)
 
 * Docker 
+
 ![alt tag](https://qph.ec.quoracdn.net/main-qimg-ba6d33730d1bce36c28d6a04486b2574-p)
 
 * Vagrant
+
 ![alt tag](https://qph.ec.quoracdn.net/main-qimg-ba6d33730d1bce36c28d6a04486b2574-p)
 
 #Difference between Vagrant & Docker
