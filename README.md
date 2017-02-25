@@ -37,4 +37,6 @@ Reference Link: https://www.upguard.com/articles/docker-vs-vagrant
 #Additional Information
 
 * Creating Boxes in Vagrant:
-Reference Link: https://scotch.io/tutorials/how-to-create-a-vagrant-base-box-from-an-existing-one
+* Reference Link: https://scotch.io/tutorials/how-to-create-a-vagrant-base-box-from-an-existing-one
+* Vagrant vs Virtual Boxes
+* Reference Link: https://www.quora.com/Why-should-I-use-Vagrant-instead-of-creating-multiple-VMs-in-VirtualBox-or-VMWare-Workstation
