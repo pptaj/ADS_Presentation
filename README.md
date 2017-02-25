@@ -11,9 +11,9 @@
 * TryStack
 
 #Difference between Vagrant & Docker
-References: https://deliciousbrains.com/vagrant-docker-wordpress-development/
+Reference Link: https://deliciousbrains.com/vagrant-docker-wordpress-development/
 ![alt tag](https://cdn.deliciousbrains.com/content/uploads/2016/01/07115244/VagrantVsDocker.jpg)
 
 
-References: https://www.upguard.com/articles/docker-vs-vagrant
+Reference Link: https://www.upguard.com/articles/docker-vs-vagrant
 ![alt tag](https://www.upguard.com/hs-fs/hubfs/UpGuard/infographics/docker-vs-vagrant.png?t=1487983775360&width=650&name=docker-vs-vagrant.png)
