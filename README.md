@@ -43,6 +43,7 @@ Reference Link: https://www.upguard.com/articles/docker-vs-vagrant
 # Creating Boxes in Vagrant
 * Reference Link: https://scotch.io/tutorials/how-to-create-a-vagrant-base-box-from-an-existing-one
 * You can run multiple Vagrant boxes concurrently, as long as their configuration does not clash with one another in some breaking way, e.g. mapping the same network ports on the host, or using same box names/IDs inside the same provider. There's no difference from having multiple boxes running on a provider manually, say multiple boxes on VirtualBox, or having them registered and started up by Vagrant. The result is the same, Vagrant just streamlines the process.
+
 Reference Link: http://stackoverflow.com/questions/23888381/how-to-run-several-boxes-with-vagrant
 
 # Vagrant vs Virtual Boxes
